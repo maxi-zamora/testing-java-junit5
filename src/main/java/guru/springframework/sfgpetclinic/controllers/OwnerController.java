@@ -4,7 +4,7 @@ import guru.springframework.sfgpetclinic.fauxspring.BindingResult;
 import guru.springframework.sfgpetclinic.fauxspring.Model;
 import guru.springframework.sfgpetclinic.fauxspring.ModelAndView;
 import guru.springframework.sfgpetclinic.fauxspring.WebDataBinder;
-import guru.springframework.sfgpetclinic.model.Owner;
+import guru.springframework.sfgpetclinic.repositories.model.Owner;
 import guru.springframework.sfgpetclinic.services.OwnerService;
 
 import javax.validation.Valid;

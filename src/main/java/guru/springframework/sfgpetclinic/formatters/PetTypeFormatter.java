@@ -1,7 +1,7 @@
 package guru.springframework.sfgpetclinic.formatters;
 
 import guru.springframework.sfgpetclinic.fauxspring.Formatter;
-import guru.springframework.sfgpetclinic.model.PetType;
+import guru.springframework.sfgpetclinic.repositories.model.PetType;
 import guru.springframework.sfgpetclinic.services.PetTypeService;
 
 import java.text.ParseException;

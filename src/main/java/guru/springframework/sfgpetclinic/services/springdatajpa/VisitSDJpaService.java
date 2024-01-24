@@ -1,6 +1,6 @@
 package guru.springframework.sfgpetclinic.services.springdatajpa;
 
-import guru.springframework.sfgpetclinic.model.Visit;
+import guru.springframework.sfgpetclinic.repositories.model.Visit;
 import guru.springframework.sfgpetclinic.repositories.VisitRepository;
 import guru.springframework.sfgpetclinic.services.VisitService;
 

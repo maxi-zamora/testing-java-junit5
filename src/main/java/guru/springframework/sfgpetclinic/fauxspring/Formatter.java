@@ -1,6 +1,6 @@
 package guru.springframework.sfgpetclinic.fauxspring;
 
-import guru.springframework.sfgpetclinic.model.PetType;
+import guru.springframework.sfgpetclinic.repositories.model.PetType;
 
 import java.text.ParseException;
 import java.util.Locale;
